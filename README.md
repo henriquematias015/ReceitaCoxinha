@@ -17,10 +17,6 @@ Desafios da Rocketseat
 
 <br>
 
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/Cover.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
